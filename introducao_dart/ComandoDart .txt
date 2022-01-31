@@ -1,0 +1,5 @@
+dart create -t console-full introducao_dart
+  cria o projeto
+
+https://pub.dev/
+  cipia o http https://pub.dev/packages/http (http: ^0.13.4) add a dependencia no arquivos pubspec.yaml
